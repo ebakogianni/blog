@@ -21,7 +21,7 @@ Un Paris inventé ? Un Paris faussement futuriste créé pour les besoins d'un s
 
 &nbsp;
 <figure class="figure-align-right" style="margin: 12px 0px 10px 10px">
-   <img alt="Aéroport de Paris-Orly, hall du 1er étage, 1960. © Roger-Viollet. Notice complète disponible sur Paris en Images." src="/assets/aeroport_d_orly_1960.jpg"> 
+   <img alt="Aéroport de Paris-Orly, hall du 1er étage, 1960. © Roger-Viollet. Notice complète disponible sur Paris en Images." src="https://ebakogianni.github.io/paris-au-cinema/assets/aeroport_d_orly_1960.jpg"> 
    <figcaption>Aéroport de Paris-Orly, hall du 1er étage, 1960.</figcaption>
 </figure>
 
@@ -36,7 +36,7 @@ L'intervalle qui sépare *Mon oncle* et *Playtime* constitue également une pér
 
 &nbsp;
 <figure class="figure-align-left" style="margin: 12px 10px 10px 0px">
-   <img alt="La tour Nobel aujourd'hui tour Initiale. Puteaux, 1966-1968." src="/assets/tour_nobel_1966_1968.jpg"> 
+   <img alt="La tour Nobel aujourd'hui tour Initiale. Puteaux, 1966-1968." src="https://ebakogianni.github.io/paris-au-cinema/assets/tour_nobel_1966_1968.jpg"> 
    <figcaption>La tour Nobel aujourd'hui tour Initiale. Puteaux, 1966-1968.</figcaption>  
 </figure>
 ## Le héros c'est le décor
@@ -50,7 +50,7 @@ Cependant, il est à signaler que le choix d'un décor artificiel était dû, pr
 
 &nbsp;
 <figure class="figure-align-right" style="margin: 12px 0px 10px 10px">
-   <img alt="Salon des Arts ménagers. Paris, Grand Palais, 1956. © Roger-Viollet. Notice complète disponible sur Paris en Images." src="/assets/salon_des_arts_menagers_paris_1956.jpg">
+   <img alt="Salon des Arts ménagers. Paris, Grand Palais, 1956. © Roger-Viollet. Notice complète disponible sur Paris en Images." src="https://ebakogianni.github.io/paris-au-cinema/assets/salon_des_arts_menagers_paris_1956.jpg">
    <figcaption>Salon des Arts ménagers. Grand Palais, 1956.</figcaption> 
 </figure>
 
@@ -63,7 +63,7 @@ Dans cette image d'ensemble l'individu devient partie d'un tout, confondu avec l
 L'image qui résulte de ce cadrage prend une dimension plus dynamique grâce aux mouvements des personnages. Rappelant tantôt la marche militaire, tantôt les gestes répétitifs des automates, tantôt les codes du ballet classique, ceux-ci traduisent une chorégraphie minutieusement préparée par le réalisateur de manière à suivre les lignes droites de l'architecture[^12] et à souligner son caractère contraignant. Une chorégraphie parallèle de la caméra qui alterne champ et contrechamp, plongé et contreplongée, travelling avant, arrière et sur plan incliné, renforce le sentiment de se trouver véritablement dans cet espace à la fois étrange car manifestement artificiel et labyrinthique où évolue Monsieur Hulot. L'épisode nocturne du Royal Garden marque la libération du mouvement qui coïncide avec la décomposition du décor et l'apparition discrète de la couleur.
 
 <figure class="figure-align-left" style="margin: 6px 10px 10px 0px">
-   <img alt="Derrière la gare Maine-Montparnasse, 1967. © Roger-Viollet. Notice complète disponible sur Paris en Images." src="/assets/gare_maine_montparnasse_1967.jpg">
+   <img alt="Derrière la gare Maine-Montparnasse, 1967. © Roger-Viollet. Notice complète disponible sur Paris en Images." src="https://ebakogianni.github.io/paris-au-cinema/assets/gare_maine_montparnasse_1967.jpg">
    <figcaption>Derrière la gare Maine-Montparnasse, 1967.</figcaption> 
 </figure>
 
