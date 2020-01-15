@@ -59,7 +59,7 @@
     background-color: $brand-color;
     border: 1px solid $grey-color-light;
     border-radius: 5px;
-    text-align: right;*/
+    text-align: right;
 
   .nav-trigger {
       display: none;
@@ -148,7 +148,7 @@
 .site-footer {
   background-color: #2b2b2b;
   padding: $spacing-unit 0;
-}
+  }
 
 .footer-heading {
   @include relative-font-size(1.125);
