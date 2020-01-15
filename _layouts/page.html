@@ -35,7 +35,7 @@ layout: default
          {% endfor %}
           <li>
             {% for tag in tags %}
-            <a class="sidebar-link" href="/tag/{{ tag | downcase | cgi_escape }}"> {{ tag }} </a>{% unless forloop.last %} |{% endunless %}
+            <a class="sidebar-link" href="/paris-au-cinema/tag/{{ tag | downcase | cgi_escape }}"> {{ tag }} </a>{% unless forloop.last %} |{% endunless %}
             {% endfor %}
           </li>
         </ul>
