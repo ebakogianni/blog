@@ -9,7 +9,7 @@ excerpt: « Je voulais me débarrasser de tout ce qui était trop pittoresquemen
 ---
 
 <figure>
-   <img alt="Le Pont de Grenelle et la statue de la Liberté depuis le quai Louis Blériot, décembre 2018." width="100%" src="/assets/statue_de_la_liberte_2018_recadree.png"> 
+   <img alt="Le Pont de Grenelle et la statue de la Liberté depuis le quai Louis Blériot, décembre 2018." width="100%" src="https://ebakogianni.github.io/paris-au-cinema/assets/statue_de_la_liberte_2018_recadree.png"> 
 </figure>
 
 > « Je voulais me débarrasser de tout ce qui était trop pittoresquement parisien, montrer la ville telle qu'elle se présente aujourd'hui. C'était la ville comme je la vois et non pas telle que l'imaginent les Américains ».[^1]
@@ -21,7 +21,7 @@ Si d'autres films du réalisateur se déroulent en partie ou en totalité à Par
 
 &nbsp;
 <figure class="figure-align-right" style="margin: 12px 0px 15px 10px">
-   <img alt="L'esplanade de l'Opéra avec à l'arrière plan le Grand Hôtel. © Pierre Barbier / Roger-Viollet. Notice complète disponible sur Paris en Images." src="/assets/esplanade-opera.jpg"> 
+   <img alt="L'esplanade de l'Opéra avec à l'arrière plan le Grand Hôtel. © Pierre Barbier / Roger-Viollet. Notice complète disponible sur Paris en Images." src="https://ebakogianni.github.io/paris-au-cinema/assets/esplanade-opera.jpg"> 
    <figcaption>L'esplanade de l'Opéra avec à l'arrière plan le Grand Hôtel.</figcaption>
 </figure>
 
@@ -36,7 +36,7 @@ Si les firmes multinationales évoquées ne sont pas celles que l'on voit dans l
 Le choix des décors est significatif. De la salle terne et anonyme du hall d'hôtel au parking souterrain de Beaubourg, des Bagages manquants à l'aéroport Charles de Gaulle à la salle de gym du Faubourg Saint-Martin, de la préfecture de police aux boîtes de nuit où le héros va chercher des informations sur sa femme disparue, les lieux filmés par Polanski créent une image de Paris qui échappe à tous les clichés l'opposant à d'autres cinéastes étrangers tels que Woody Allen, qui s'amusent à les reprendre à dessein[^10]. Chez Polanski les monuments et les lieux typiques sont traités de façon tantôt ironique tantôt angoissante. La tour Eiffel apparaît derrière un camion-poubelle qui bloque la circulation place de Mexico. Les toits mansardés deviennent un danger menaçant quand Walker glisse et fait tomber sa valise en essayant d'accéder à la fenêtre de l'appartement de Michelle (Emmanuelle Seigner)[^11]. Le plan nocturne du bateau-mouche qui glisse silencieusement sur la Seine, transforme une attraction touristique en objet mystérieux qui ajoute au suspense sans autre raison évidente que la lumière et le cadrage choisi. Cette géographie des lieux, qui joue constamment avec la symbolique parisienne et américaine, trouve son expression iconique dans les plans tournés autour du pont de Grenelle et de la statue de la Liberté.
 
 <figure class="figure-align-left" style="margin: 6px 15px 15px 0px">
-   <img alt="Les immeubles du Front de Seine, le pont de Grenelle et la statue de la Liberté depuis le quai Louis-Blériot. Paris 1986. © Édith Gérin / BHVP / Roger-Viollet. Notice complète disponible sur Paris en Images." src="/assets/statue_de_la_liberte_1986.jpg"> 
+   <img alt="Les immeubles du Front de Seine, le pont de Grenelle et la statue de la Liberté depuis le quai Louis-Blériot. Paris 1986. © Édith Gérin / BHVP / Roger-Viollet. Notice complète disponible sur Paris en Images." src="https://ebakogianni.github.io/paris-au-cinema/assets/statue_de_la_liberte_1986.jpg"> 
     <figcaption>Les immeubles du Front de Seine et la statue de la Liberté, 1986.</figcaption>
 </figure>
 
