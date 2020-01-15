@@ -1,6 +1,6 @@
-title: Your awesome title
-author: GitHub User
-email: your-email@domain.com
+title: Paris au cinémq
+# author: GitHub User
+email: ebakog@yahoo.com
 description: > # this means to ignore newlines until "show_excerpts:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
@@ -15,8 +15,8 @@ minima:
 
   # generate social links in footer
   social_links:
-    twitter: jekyllrb
-    github:  jekyll
+ #   twitter: jekyllrb
+    github:  ebakogianni
     rss: rss
     # dribbble: jekyll
     # facebook: jekyll
@@ -41,8 +41,9 @@ minima:
 
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
-#header_pages:
-# - about.md
+header_pages:
+ - articles.md
+ - about.md
 
 # Build settings
 theme: minima
