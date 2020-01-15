@@ -4,8 +4,9 @@
   <div class="wrapper">
 
     <div class="footer-col-wrapper">
-      <div class="footer-col one-half">
-      <h2 class="footer-heading">{{ site.title | escape }}</h2>
+ <!--     <div class="footer-col one-half">
+      <h2 class="footer-heading">{{ site.title | escape }}</h2> -->
+      <div class="footer-col footer-col-1">  
         <ul class="contact-list">
           <li class="p-name">
             {%- if site.author -%}
@@ -13,18 +14,23 @@
             {%- endif -%}
             </li>
             {%- if site.email -%}
-            <li><a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+            <li><a class="u-email" href="mailto:{{ site.email }}">Contact</a></li>
             {%- endif -%}
         </ul>
       </div>
-
-      <div class="footer-col one-half">
-        <p>{{- site.description | escape -}}</p>
-      </div>
-
-      <div class="social-links">
+      
+      <div class="footer-col footer-col-2">
         {%- include social.html -%}
       </div>
+
+      <div class="footer-col footer-col-3">
+         <p class="rss-subscribe"><a class="rss-link" href="{{ "/feed.xml" | relative_url }}">Flux RSS</a></p>
+ <!--       <p>{{- site.description | escape -}}</p> -->
+      </div>
+
+ <!---     <div class="social-links">
+        {%- include social.html -%}
+      </div> -->
     </div>
 
   </div>
