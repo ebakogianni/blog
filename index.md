@@ -7,7 +7,7 @@
 layout: carte
 ---
 
-# Bienvenüe sur *Paris au cinéma* !
+# Bienvenue sur *Paris au cinéma* !
 
 Pour visualiser les calques et la liste des lieux faites apparaître les outils de la carte ( ![Bouton Outils](/assets/bouton_outils.png) ) et cliquez sur ![Bouton Calques](/assets/bouton_calques.png) puis sur ![Bouton Visualiser les données](/assets/bouton_visualiser_les_donnees.png). Les lieux sont classés par décennie et triés selon l'ordre alphabétique du titre de film puis selon leur ordre d'apparition dans le film. Il est possible de filtrer les contenus en saisissant un mot-clé (mot du titre, année, réalisateur, adresse) dans la barre de recherche. Les points rouges marquent les principaux lieux des films traités dans les [articles](/articles/) du site.
 
