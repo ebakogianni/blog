@@ -54,7 +54,7 @@
     position: absolute;
     top: 9px;
     right: $spacing-unit / 2;
-    background-color: $grey-color-dark;
+    background-color: $brand-color;
     border: 1px solid $grey-color-light;
     border-radius: 5px;
     text-align: left;
@@ -83,10 +83,10 @@
     }
     .menu-icon:hover {
       background-color: $background-color;
-      color: $grey-color-dark;
+      color: $brand-color;
       
       > svg {
-        fill: $grey-color-dark;
+        fill: $brand-color;
       }
     }
 
