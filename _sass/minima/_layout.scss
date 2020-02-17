@@ -278,7 +278,7 @@
 
 .articles-col-2 {
   float: right;
-  width: 190px;
+  width: 210px;
   margin: 7px 0px 15px 15px;
 /**  background-color: #840f0f;*/
   font-size: $small-font-size;
@@ -334,13 +334,13 @@ border-color: #d75d5d;
 
 @include media-query($on-palm) {
   .sidebar-title{
-    padding: 20px 18vw 0px 18vw;
+    padding: 20px 13vw 0px 13vw;
   } 
 }
 
 @include media-query($on-palm) {
   .sidebar-list{
-    padding: 0px 18vw 20px 18vw;
+    padding: 0px 13vw 20px 13vw;
   } 
 }
 /**
