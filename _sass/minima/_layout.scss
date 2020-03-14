@@ -4,7 +4,7 @@
 .site-header {
   border-top: 5px solid $grey-color-dark;
   border-bottom: 1px solid $grey-color-light;
-  background-color: $brand-color; /** $grey-color-dark; */
+  background-color: $brand-color;
   min-height: $spacing-unit * 1.865;
 
   // Positioning context for the mobile navigation icon
@@ -22,7 +22,6 @@
 
   &,
   &:visited {
-  /**color: $grey-color-dark; */
   color: $background-color;
   }
 }
@@ -41,7 +40,7 @@
 
   .page-link {
   /**      color: $text-color; */
-  color: $background-color;
+    color: $background-color;
     line-height: $base-line-height;
 
     // Gaps between nav items, but not on the last one
@@ -118,11 +117,16 @@
  * Site footer
  */
 .site-footer {
-/**  border-top: 1px solid $grey-color-light; */
   padding: $spacing-unit 0;
   background-color: #2b2b2b;
+  margin-top: 50px;
 }
 
+@include media-query($on-palm) {
+  .site-footer {
+    margin-top: 10px;
+  }
+}
 .footer-heading {
   @include relative-font-size(1.125);
   margin-bottom: $spacing-unit / 2;
@@ -241,6 +245,11 @@
   @include relative-font-size(1.5);
 }
 
+.bloc-gris{
+  background-color: #f2f2f2;
+  padding:25px;
+}
+
 .figure-align-left {
     float: left;
     width: 51%
@@ -285,18 +294,6 @@
 /**  color: $background-color;*/
 }
 
-/** .sidebar {
-  float: right;
-  width: 160px;
-  margin: 7px 0px 15px 15px;
-  padding: 20px;
-  background-color: #2b2b2b;
-  border-width: 1px 1px 1px 1px;
-  border-style: solid;
-  border-color: #cbcbcb;
-  font-size: $small-font-size;
-  color: $grey-color-light;
-} */
 @include media-query($on-palm) {
   .articles-col-2 {
     float: left;
@@ -322,7 +319,6 @@ border-color: #d75d5d;
 }
 .sidebar-title {
   font-size: 20px;
-/**  color: $background-color;*/
 }
 /**.sidebar-link {
   color: $background-color;
