@@ -340,6 +340,16 @@
     padding: 0px 23vw 20px 23vw;
   } 
 }
+
+@media screen and (max-width:380px) {
+  .sidebar-title{
+    padding: 20px 13vw 0px 13vw;
+  }
+  .sidebar-list{
+    padding: 0px 13vw 20px 13vw;
+  } 
+}
+
 /**
  * Posts
  */
