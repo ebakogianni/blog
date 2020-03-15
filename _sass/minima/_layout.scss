@@ -96,17 +96,20 @@
 
     input:checked ~ .trigger {
       display: block;
-      padding-bottom: 5px;
     }
 
     .page-link {
       display: block;
-      padding: 5px 10px;
+      padding: 10px 30px;
 
       &:not(:last-child) {
         margin-right: 0;
       }
-      margin-left: 5px;
+      margin-left: 0px;
+    }
+    .page-link:hover {
+      background-color: $background-color;
+      color: $brand-color;
     }
   }
 }
@@ -311,11 +314,9 @@
 }
 
 .sidebar-element {
-margin: 0px 0px 15px 0px;
-padding: 15px 18px 15px 18px;
-border: 2px;
-border-style: solid;
-border-color: #d75d5d;
+  margin: 0px 0px 15px 0px;
+  padding: 15px 18px 15px 18px;
+  background-color: #f2f2f2;
 }
 .sidebar-title {
   font-size: 20px;
@@ -330,13 +331,13 @@ border-color: #d75d5d;
 
 @include media-query($on-palm) {
   .sidebar-title{
-    padding: 20px 13vw 0px 13vw;
+    padding: 20px 23vw 0px 23vw;
   } 
 }
 
 @include media-query($on-palm) {
   .sidebar-list{
-    padding: 0px 13vw 20px 13vw;
+    padding: 0px 23vw 20px 23vw;
   } 
 }
 /**
