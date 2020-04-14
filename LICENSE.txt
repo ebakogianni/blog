@@ -1,15 +1,16 @@
-CONTENU :
+CONTENT :
 
-Paris au cinéma est mis a disposition selon les termes de la licence CC BY NC ND 4.0. Sauf mention contraire, je suis l’auteur
-des images et des textes publiés sur l’ensemble des pages du site ainsi que sur les cartes uMap liées au site. Les contenus 
-sous droits dont je ne suis pas l’auteur sont accompagnés des crédits associés et de la mention de la source. Il est possible 
-de télécharger et de réutiliser ces contenus depuis le site d’origine suivant les Conditions générales d’utilisation de celui-
-ci, ou en s’adressant aux gestionnaires de droits indiqués.
+The contents created for the website https://ebakogianni.github.io/paris-au-cinema/ (the "Website") and stored in the folders 
+“_posts”, “images_carte”, “post_cover” and “post_images” of this repository,  are placed under CC BY NC ND 4.0 license, unless 
+otherwise stated in the figure caption or the note that accompanies the content on the Website pages. To copy, download or 
+reuse copyrighted content refer to the copyright holders and to the Terms and Conditions of the original sources of 
+publication.
 
 
-JEKYLL THEME :
+THEME :
 
-Based on the theme Minima, Copyright (c) 2016-present Parker Moore and the minima contributors, The MIT License (MIT).
+The theme used for the Website is based on the Jekyll theme Minima, released under The MIT License (MIT). Copyright (c) 2016-
+present Parker Moore and the minima contributors.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation 
 files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, 
