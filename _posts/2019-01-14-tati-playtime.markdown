@@ -21,8 +21,8 @@ Un Paris inventé ? Un Paris faussement futuriste créé pour les besoins d'un s
 
 &nbsp;
 <figure class="figure-align-right" style="margin: 12px 0px 10px 10px">
-   <img alt="Aéroport de Paris-Orly, hall du 1er étage, 1960. © Roger-Viollet. Notice complète disponible sur Paris en Images." src="https://ebakogianni.github.io/paris-au-cinema/assets/aeroport_d_orly_1960.jpg"> 
-   <figcaption>Aéroport de Paris-Orly, hall du 1er étage, 1960.</figcaption>
+   <img alt="Aéroport de Paris-Orly, hall du 1er étage, 1960. © Roger-Viollet. Notice complète disponible sur Paris en Images." src="https://ebakogianni.github.io/paris-au-cinema/assets/post_images/aeroport_d_orly_1960.jpg"> 
+   <figcaption>Aéroport de Paris-Orly, hall du 1er étage, 1960. <a href="http://www.parisenimages.fr/fr/sharing/assetContent/t/5c21fd9302df6b81ac901438844b039a/bypassnavigation/1">Paris en Images</a></figcaption>
 </figure>
 
 ## De Mon oncle à Playtime
@@ -36,8 +36,8 @@ L'intervalle qui sépare *Mon oncle* et *Playtime* constitue également une pér
 
 &nbsp;
 <figure class="figure-align-left" style="margin: 12px 10px 10px 0px">
-   <img alt="La tour Nobel aujourd'hui tour Initiale. Puteaux, 1966-1968." src="https://ebakogianni.github.io/paris-au-cinema/assets/tour_nobel_1966_1968.jpg"> 
-   <figcaption>La tour Nobel aujourd'hui tour Initiale. Puteaux, 1966-1968.</figcaption>  
+   <img alt="La tour Nobel aujourd'hui tour Initiale. Puteaux, 1966-1968." src="https://ebakogianni.github.io/paris-au-cinema/assets/post_images/tour_nobel_1966_1968.jpg"> 
+   <figcaption>La tour Nobel. Puteaux, 1966-1968. <a href="https://www.parisenimages.fr/fr/sharing/assetContent/t/eb1af390234286567735c017b65ae7f8/bypassnavigation/1">Paris en Images</a></figcaption>  
 </figure>
 ## Le héros c'est le décor
 
@@ -50,8 +50,8 @@ Cependant, il est à signaler que le choix d'un décor artificiel était dû, pr
 
 &nbsp;
 <figure class="figure-align-right" style="margin: 12px 0px 10px 10px">
-   <img alt="Salon des Arts ménagers. Paris, Grand Palais, 1956. © Roger-Viollet. Notice complète disponible sur Paris en Images." src="https://ebakogianni.github.io/paris-au-cinema/assets/salon_des_arts_menagers_paris_1956.jpg">
-   <figcaption>Salon des Arts ménagers. Grand Palais, 1956.</figcaption> 
+   <img alt="Salon des Arts ménagers. Paris, Grand Palais, 1956. © Roger-Viollet. Notice complète disponible sur Paris en Images." src="https://ebakogianni.github.io/paris-au-cinema/assets/post_images/salon_des_arts_menagers_paris_1956.jpg">
+   <figcaption>Salon des Arts ménagers. Grand Palais, 1956. <a href="https://www.parisenimages.fr/fr/sharing/assetContent/t/a9945845ca6d45d3ebd0451161f69549/bypassnavigation/1">Paris en Images</a></figcaption> 
 </figure>
 
 ## Image, son, mouvement
@@ -63,8 +63,8 @@ Dans cette image d'ensemble l'individu devient partie d'un tout, confondu avec l
 L'image qui résulte de ce cadrage prend une dimension plus dynamique grâce aux mouvements des personnages. Rappelant tantôt la marche militaire, tantôt les gestes répétitifs des automates, tantôt les codes du ballet classique, ceux-ci traduisent une chorégraphie minutieusement préparée par le réalisateur de manière à suivre les lignes droites de l'architecture[^12] et à souligner son caractère contraignant. Une chorégraphie parallèle de la caméra qui alterne champ et contrechamp, plongé et contreplongée, travelling avant, arrière et sur plan incliné, renforce le sentiment de se trouver véritablement dans cet espace à la fois étrange car manifestement artificiel et labyrinthique où évolue Monsieur Hulot. L'épisode nocturne du Royal Garden marque la libération du mouvement qui coïncide avec la décomposition du décor et l'apparition discrète de la couleur.
 
 <figure class="figure-align-left" style="margin: 6px 10px 10px 0px">
-   <img alt="Derrière la gare Maine-Montparnasse, 1967. © Roger-Viollet. Notice complète disponible sur Paris en Images." src="https://ebakogianni.github.io/paris-au-cinema/assets/gare_maine_montparnasse_1967.jpg">
-   <figcaption>Derrière la gare Maine-Montparnasse, 1967.</figcaption> 
+   <img alt="Derrière la gare Maine-Montparnasse, 1967. © Roger-Viollet. Notice complète disponible sur Paris en Images." src="https://ebakogianni.github.io/paris-au-cinema/assets/post_images/gare_maine_montparnasse_1967.jpg">
+   <figcaption>Derrière la gare Maine-Montparnasse, 1967. <a href="https://www.parisenimages.fr/fr/sharing/assetContent/t/21f529a3384965f16a41a1f7742a686d/bypassnavigation/1">Paris en Images</a></figcaption> 
 </figure>
 
 Le choix du champ d'ensemble et la dynamique de l'image trouvent enfin leur équivalent sonore dans un mixage qui alterne des fragments de dialogues sous forme de « gros plans vocaux qui se succèdent et se chevauchent ».[^13] La place des personnages dans l'espace n'est pas prise en compte. Au lieu de reconstituer le bruit de la ville, Tati représente le mode de perception par intermittences de celui-ci, quand l'attention isole tel ou tel détail pour ensuite recomposer par leur combinaison une ambiance. Il s'agira en l'occurrence d'une ambiance « internationale » grâce au mélange du français avec l'anglais américain, l'anglais britannique et l'allemand que l'on entend tout au long du film. Cette mise à distance du dialogue et la mimique qui le remplace, approche le comique de *Playtime* à celui de films muets tels que *Les Temps modernes* (1936) alors que le décalage entre l'image et le son souligne l'aliénation des personnages types mis en scène.
