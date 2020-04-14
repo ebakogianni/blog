@@ -22,7 +22,7 @@ Si d'autres films du réalisateur se déroulent en partie ou en totalité à Par
 &nbsp;
 <figure class="figure-align-right" style="margin: 12px 0px 15px 10px">
    <img alt="L'esplanade de l'Opéra avec à l'arrière plan le Grand Hôtel. © Pierre Barbier / Roger-Viollet. Notice complète disponible sur Paris en Images." src="https://ebakogianni.github.io/paris-au-cinema/assets/post_images/esplanade-opera.jpg"> 
-   <figcaption>L'esplanade de l'Opéra et le Grand Hôtel. <a href="https://www.parisenimages.fr/fr/sharing/assetContent/t/b5a58be1980623339184d724d036cfe1/bypassnavigation/1">Paris en Images</a></figcaption>
+   <figcaption>L'esplanade de l'Opéra et le Grand Hôtel. <a target="_blank" rel="noopener noreferrer" href="https://www.parisenimages.fr/fr/sharing/assetContent/t/b5a58be1980623339184d724d036cfe1/bypassnavigation/1">Paris en Images</a></figcaption>
 </figure>
 
 ## Un couple américain à Paris
@@ -37,7 +37,7 @@ Le choix des décors est significatif. De la salle terne et anonyme du hall d'h�
 
 <figure class="figure-align-left" style="margin: 6px 15px 15px 0px">
    <img alt="Les immeubles du Front de Seine, le pont de Grenelle et la statue de la Liberté depuis le quai Louis-Blériot. Paris 1986. © Édith Gérin / BHVP / Roger-Viollet. Notice complète disponible sur Paris en Images." src="https://ebakogianni.github.io/paris-au-cinema/assets/post_images/statue_de_la_liberte_1986.jpg"> 
-    <figcaption>Le Front de Seine et la statue de la Liberté, 1986. <a href="https://www.parisenimages.fr/fr/sharing/assetContent/t/236382f6f17744f94f73f7a0f0ee28d6/bypassnavigation/1">Paris en Images</a></figcaption>
+    <figcaption>Le Front de Seine et la statue de la Liberté, 1986. <a target="_blank" rel="noopener noreferrer" href="https://www.parisenimages.fr/fr/sharing/assetContent/t/236382f6f17744f94f73f7a0f0ee28d6/bypassnavigation/1">Paris en Images</a></figcaption>
 </figure>
 
 Nous ne retrouvons pas les bords de Seine romantiques autour des îles de la Cité et Saint-Louis. À l'est du pont d'Iéna le paysage urbain change radicalement. La vue sur la tour Eiffel à partir du quai Louis Blériot laisse voir le symbole de la capitale derrière les gratte-ciel en verre du Front-de-Seine. Au premier plan, la statue de la Liberté, image absolue de l'Amérique malgré l'histoire qui la veut symbole de l'amitié franco-américaine, crée chez le docteur Walker une certaine confusion géographique qui accentue le sentiment d'étrangeté et de l'absurde dégagé par le film. C'est sur l'Île aux Cygnes, au pied de la statue, que le héros va retrouver sa femme un matin glacial à l'aube quand les ravisseurs l'amèneront en bateau.
