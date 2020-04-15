@@ -1,6 +1,6 @@
 CONTENT :
 
-The contents created for the website https://ebakogianni.github.io/paris-au-cinema/ (the "Website") and for the maps embedded 
+The content created for the website https://ebakogianni.github.io/paris-au-cinema/ (the "Website") and for the maps embedded 
 to it, that is, the files stored in the folders “_posts”, “images_carte”, “post_cover” and “post_images” of this repository,  
 are placed under CC BY NC ND 4.0 license, unless otherwise stated on the content itself or in the text that accompanies the 
 content on the map and Website pages. To copy, download or reuse copyrighted content created by others refer to the copyright 
