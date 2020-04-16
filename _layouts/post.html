@@ -22,10 +22,10 @@ layout: default
     {{ content }}
   </div>
   {% if page.previous.url %}
-  <a href="/paris-au-cinema/{{page.previous.url}}" style="float:left; display:block; margin-top: 8px; margin-bottom: 8px; margin-right: 8px;">&larr; {{page.previous.title}}</a>
+  <a href="/paris-au-cinema{{page.previous.url}}" style="float:left; display:block; margin-top: 8px; margin-bottom: 8px; margin-right: 8px;">&larr; {{page.previous.title}}</a>
   {% endif %}
   {% if page.next.url %}
-  <a href="/paris-au-cinema/{{page.next.url}}" style="float:right; display:block; text-align: right; margin-top: 8px; margin-bottom: 8px; margin-left: 8px;">{{page.next.title}} &rarr;</a>
+  <a href="/paris-au-cinema{{page.next.url}}" style="float:right; display:block; text-align: right; margin-top: 8px; margin-bottom: 8px; margin-left: 8px;">{{page.next.title}} &rarr;</a>
   {% endif %}
   {%- if site.disqus.shortname -%}
     {%- include disqus_comments.html -%}
