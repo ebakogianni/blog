@@ -2,9 +2,7 @@ title: Paris au cinéma
 # author: GitHub User
 email: parisaucinema.blog@gmail.com
 description: > # this means to ignore newlines until "show_excerpts:"
-  Une carte des lieux cinématographiques parisiens pour accompagner des balades-découvertes, 
-  réelles ou virtuelles, et des articles pour explorer les différents visages de la ville en 
-  tant que décor ou personnage filmique à part entière.
+  Une carte des lieux cinématographiques parisiens
 
 show_excerpts: false # set to true to show excerpts on the homepage
 
