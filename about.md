@@ -20,9 +20,9 @@ Pour des raisons de droits d’auteur, l’iconographie du blog est axée sur Pa
 
 <h4 style="margin-top: 30px">Hébergeur</h4>
 
-GitHub
-88 Colin P Kelly Jr. Street
-San Francisco, CA 94107
-États-Unis
-T. : +1 877-448-4820
-https://github.com/
+<p style="margin-bottom:10px">GitHub</p>
+<p style="margin-bottom:0">88 Colin P Kelly Jr. Street</p>
+<p style="margin-bottom:0">San Francisco, CA 94107</p>
+<p style="margin-bottom:10px">États-Unis</p>
+<p style="margin-bottom:0">Tél. : +1 877-448-4820</p>
+<p>https://github.com/</p>
