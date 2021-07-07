@@ -16,7 +16,7 @@ Pour des raisons de droits d’auteur, l’iconographie du blog est axée sur Pa
 
 <h4 style="margin-top: 30px">Conditions de réutilisation</h4>
 
-*Paris au cinéma* est mis a disposition selon les termes de la licence <a target="_blank" rel="noopener noreferrer" href="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.fr">CC BY-NC-ND 4.0</a>. Sauf mention contraire, je suis l’auteur des images et des textes publiés sur l’ensemble des pages du site ainsi que sur les  <a target="_blank" rel="noopener noreferrer" href="https://framacarte.org/en/user/Efthymia/">cartes uMap</a> liées au site. Les contenus sous droits dont je ne suis pas l’auteur sont accompagnés des crédits associés et de la mention de la source. Il est possible de télécharger et de réutiliser ces contenus depuis le site d’origine suivant les Conditions générales d’utilisation de celui-ci, ou en s’adressant aux gestionnaires de droits indiqués.
+*Paris au cinéma* est mis a disposition selon les termes de la licence <a target="_blank" rel="noopener noreferrer" href="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.fr">CC BY-NC-ND 4.0</a>. Sauf mention contraire, je suis l’auteur des images et des textes publiés sur l’ensemble des pages du site ainsi que sur les  <a target="_blank" rel="noopener noreferrer" href="https://umap.openstreetmap.fr/fr/user/Efthymia/">cartes uMap</a> liées au site. Les contenus sous droits dont je ne suis pas l’auteur sont accompagnés des crédits associés et de la mention de la source. Il est possible de télécharger et de réutiliser ces contenus depuis le site d’origine suivant les Conditions générales d’utilisation de celui-ci, ou en s’adressant aux gestionnaires de droits indiqués.
 
 <h4 style="margin-top: 30px">Hébergeur</h4>
 
